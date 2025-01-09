@@ -18,15 +18,18 @@ Welcome to the **Crafting Application**! This project is designed to help crafte
 ---
 
 ## Screenshots 📸
-
-![Home Screen](screenshots/home.png)
 *Home Screen - Overview of your active projects.*
 
-![Project Details](screenshots/project-details.png)
+![Home Screen](home.png)   ![Login](login.png)   ![Recommendation](recom.png)
+
 *Project Details - Step-by-step instructions and material list.*
 
-![Gallery](screenshots/gallery.png)
-*Inspiration Gallery - Browse completed projects for ideas.*
+![Project Details](description.png)
+
+*Inspiration Gallery - Browse projects for ideas.*
+
+![Search](search.png)
+
 
 ---
 
