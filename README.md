@@ -4,23 +4,16 @@ Welcome to the **Crafting Application**! This project is designed to help crafte
 
 ---
 
-## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-
-
----
-
 ## Features ✨
 
-- **Project Management**: Create, organize, and track your crafting projects.
-- **Material Tracker**: Keep an inventory of your crafting materials and tools.
-- **Step-by-Step Guides**: Break down projects into manageable steps with instructions.
-- **Inspiration Gallery**: Browse through a gallery of completed projects for inspiration.
-- **Customizable Templates**: Use pre-built templates or create your own for recurring project types.
-- **Cross-Platform Support**: Access your projects on multiple devices.
+- **Step-by-Step Guides**: Break down projects into manageable steps with instructions. 📝
+- **Inspiration Gallery**: Browse through a gallery of completed projects for inspiration. 🎨
+- **User Feedback**: Share your thoughts and suggestions to help improve the app. 💬
+- **Wishlist**: Save your favorite projects and materials for future reference. ❤️
+- **Recommendations**: Get personalized project and material recommendations based on your preferences. 🎯
+- **Edit Profile**: Customize your profile with a photo, bio, and preferences. 👤
+- **Search**: Easily find projects, materials, or guides with a powerful search feature. 🔍
+
 
 ---
 
@@ -37,10 +30,10 @@ Welcome to the **Crafting Application**! This project is designed to help crafte
 
 ---
 
-## Installation 🛠️
-
+## Technologies Used
 ### Prerequisites
 - Flutter SDK (version 3.0 or higher)
 - Dart (version 2.18 or higher)
-- Android Studio or Xcode (for mobile development)
+- Android Studio (for mobile development)
 - Firebase account (for backend and authentication)
+- Python 
